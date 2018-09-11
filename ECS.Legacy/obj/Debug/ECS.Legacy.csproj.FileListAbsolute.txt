@@ -1,0 +1,7 @@
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECS.Legacy\bin\Debug\ECS.Legacy.exe.config
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECS.Legacy\bin\Debug\ECS.Legacy.exe
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECS.Legacy\bin\Debug\ECS.Legacy.pdb
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECS.Legacy\obj\Debug\ECS.Legacy.csprojAssemblyReference.cache
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECS.Legacy\obj\Debug\ECS.Legacy.csproj.CoreCompileInputs.cache
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECS.Legacy\obj\Debug\ECS.Legacy.exe
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECS.Legacy\obj\Debug\ECS.Legacy.pdb
