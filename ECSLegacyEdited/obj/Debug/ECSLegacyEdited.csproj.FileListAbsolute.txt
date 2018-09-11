@@ -1,0 +1,7 @@
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited\bin\Debug\ECSLegacyEdited.exe.config
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited\bin\Debug\ECSLegacyEdited.exe
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited\bin\Debug\ECSLegacyEdited.pdb
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited\obj\Debug\ECSLegacyEdited.csprojAssemblyReference.cache
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited\obj\Debug\ECSLegacyEdited.csproj.CoreCompileInputs.cache
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited\obj\Debug\ECSLegacyEdited.exe
+C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited\obj\Debug\ECSLegacyEdited.pdb

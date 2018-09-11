@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECSLegacyEdited", "ECSLegacyEdited\ECSLegacyEdited.csproj", "{F97DA92B-930B-48B9-9FAA-327F6D92D4D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECSLegacyEdited.Unit.Test", "ECSLegacyEdited.Unit.Test\ECSLegacyEdited.Unit.Test.csproj", "{3B24FBD1-447A-49D2-9631-349D434A0733}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECSLegacyEdited.Unit.Test", "ECSLegacyEdited.Unit.Test\ECSLegacyEdited.Unit.Test.csproj", "{45FC07F1-3974-4D0C-AE1F-3E27CE386CA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +25,10 @@ Global
 		{F97DA92B-930B-48B9-9FAA-327F6D92D4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F97DA92B-930B-48B9-9FAA-327F6D92D4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F97DA92B-930B-48B9-9FAA-327F6D92D4D5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3B24FBD1-447A-49D2-9631-349D434A0733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B24FBD1-447A-49D2-9631-349D434A0733}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B24FBD1-447A-49D2-9631-349D434A0733}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B24FBD1-447A-49D2-9631-349D434A0733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FC07F1-3974-4D0C-AE1F-3E27CE386CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FC07F1-3974-4D0C-AE1F-3E27CE386CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FC07F1-3974-4D0C-AE1F-3E27CE386CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FC07F1-3974-4D0C-AE1F-3E27CE386CA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

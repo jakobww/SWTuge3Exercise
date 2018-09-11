@@ -6,18 +6,22 @@ using System.Threading.Tasks;
 
 namespace ECSLegacyEdited
 {
-    class FakeTempSensor : ITempSensor
+    public class FakeHeater : IHeater
     {
 
-        public int GetTemp()
+        public void TurnOn()
         {
-            return 34;
+            System.Console.WriteLine("Heater is on");
+        }
+
+        public void TurnOff()
+        {
+            System.Console.WriteLine("Heater is off");
         }
 
         public bool RunSelfTest()
         {
             return true;
         }
-
     }
 }
