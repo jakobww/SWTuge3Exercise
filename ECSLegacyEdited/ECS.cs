@@ -1,6 +1,6 @@
 ﻿using ECSLegacyEdited;
 
-namespace ECS.Legacy
+namespace ECS.LegacyEdited
 {
     public class ECS
     {
