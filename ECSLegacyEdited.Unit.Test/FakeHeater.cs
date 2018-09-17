@@ -8,15 +8,17 @@ namespace ECSLegacyEdited
 {
     public class FakeHeater : IHeater
     {
+        public int _calledTurnOn { set; get; }
+        public int _calledTurnOff { set; get; }
 
         public void TurnOn()
         {
-            System.Console.WriteLine("Heater is on");
+            _calledTurnOn++;
         }
 
         public void TurnOff()
         {
-            System.Console.WriteLine("Heater is off");
+            _calledTurnOff++;
         }
 
         public bool RunSelfTest()
