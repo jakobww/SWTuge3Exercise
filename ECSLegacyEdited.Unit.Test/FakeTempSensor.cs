@@ -8,12 +8,14 @@ namespace ECSLegacyEdited
 {
     public class FakeTempSensor : ITempSensor
     {
-        public int _temp { set; get; }
+        public int _temp { get; set; }
 
         public int GetTemp()
         {
             return _temp;
         }
+
+
 
         public bool RunSelfTest()
         {
