@@ -15,6 +15,10 @@ namespace ECS.LegacyEdited
             _heater = heater;
         }
 
+        public ECS()
+        {
+        }
+
         public void Regulate()
         {
             var t = _tempSensor.GetTemp();

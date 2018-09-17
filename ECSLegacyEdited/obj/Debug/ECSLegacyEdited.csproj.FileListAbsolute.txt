@@ -5,3 +5,10 @@ C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSL
 C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited\obj\Debug\ECSLegacyEdited.csproj.CoreCompileInputs.cache
 C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited\obj\Debug\ECSLegacyEdited.exe
 C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited\obj\Debug\ECSLegacyEdited.pdb
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited\bin\Debug\ECSLegacyEdited.exe.config
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited\bin\Debug\ECSLegacyEdited.exe
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited\bin\Debug\ECSLegacyEdited.pdb
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited\obj\Debug\ECSLegacyEdited.csprojAssemblyReference.cache
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited\obj\Debug\ECSLegacyEdited.csproj.CoreCompileInputs.cache
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited\obj\Debug\ECSLegacyEdited.exe
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited\obj\Debug\ECSLegacyEdited.pdb

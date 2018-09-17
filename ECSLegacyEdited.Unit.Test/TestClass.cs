@@ -25,5 +25,20 @@ namespace ECSLegacyEdited.Unit.Test
 
         }
 
+        [Test]
+        public void ECS_GetCurTemp_ReturnTemp()
+        {
+            FakeHeater myHeater = new FakeHeater();
+            FakeTempSensor myTempSensor = new FakeTempSensor();
+
+            ECS.LegacyEdited.ECS uut = new ECS.LegacyEdited.ECS(25, myHeater, myTempSensor);
+
+            myTempSensor._temp = 23;
+
+            Assert.That(uut.GetCurTemp().Equals(23));
+
+        }
+
+
     }
 }
