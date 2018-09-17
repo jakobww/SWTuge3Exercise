@@ -12,3 +12,17 @@ C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSL
 C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\obj\Debug\ECSLegacyEdited.Unit.Test.csproj.CopyComplete
 C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\obj\Debug\ECSLegacyEdited.Unit.Test.exe
 C:\Users\Jakob Wilbrandt\Documents\AU\7. semester\SWT\Uge 3\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\obj\Debug\ECSLegacyEdited.Unit.Test.pdb
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\bin\Debug\ECSLegacyEdited.Unit.Test.exe.config
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\bin\Debug\ECSLegacyEdited.Unit.Test.exe
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\bin\Debug\ECSLegacyEdited.Unit.Test.pdb
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\bin\Debug\ECSLegacyEdited.exe
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\bin\Debug\nunit.framework.dll
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\bin\Debug\ECSLegacyEdited.pdb
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\bin\Debug\ECSLegacyEdited.exe.config
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\bin\Debug\nunit.framework.pdb
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\bin\Debug\nunit.framework.xml
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\obj\Debug\ECSLegacyEdited.Unit.Test.csprojAssemblyReference.cache
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\obj\Debug\ECSLegacyEdited.Unit.Test.csproj.CoreCompileInputs.cache
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\obj\Debug\ECSLegacyEdited.Unit.Test.csproj.CopyComplete
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\obj\Debug\ECSLegacyEdited.Unit.Test.exe
+C:\Users\nanna\Desktop\Elektro\6_semester\SWT\03_1 Design for Testability\SWTuge3Exercise\ECSLegacyEdited.Unit.Test\obj\Debug\ECSLegacyEdited.Unit.Test.pdb
