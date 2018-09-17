@@ -13,17 +13,44 @@ namespace ECSLegacyEdited.Unit.Test
     {
 
         [Test]
-        public void TurnOnHeater_TurnOnWhen25Degrees_WriteHeaterON()
+        public void TurnOnHeater_TurnOnWhen15Degrees_calledTurnOnEquals1()
         {
 
+            //Arrange
+            int threshold = 20;
+            FakeHeater myHeater = new FakeHeater();
+            FakeTempSensor myTempSensor = new FakeTempSensor();
+            myTempSensor._temp = 15;
+            ECS.LegacyEdited.ECS myEcs = new ECS.LegacyEdited.ECS(threshold,myHeater,myTempSensor);
 
+            //Act
+            myEcs.Regulate();
+
+            //Assert
+            Assert.That(myHeater._calledTurnOn.Equals(1));
             
-            IHeater myHeater = new FakeHeater();
-            ITempSensor myTempSensor = new FakeTempSensor();
-            ECS.LegacyEdited.ECS myEcs = new ECS.LegacyEdited.ECS();
+        }
 
+
+        [Test]
+        public void TurnOffHeater_TurnOffWhen25Degrees_calledTurnOffEquals1()
+        {
+
+            //Arrange
+            int threshold = 20;
+            FakeHeater myHeater = new FakeHeater();
+            FakeTempSensor myTempSensor = new FakeTempSensor();
+            myTempSensor._temp = 25;
+            ECS.LegacyEdited.ECS myEcs = new ECS.LegacyEdited.ECS(threshold, myHeater, myTempSensor);
+
+            //Act
+            myEcs.Regulate();
+
+            //Assert
+            Assert.That(myHeater._calledTurnOff.Equals(1));
 
         }
+
 
     }
 }
